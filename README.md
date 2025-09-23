@@ -1,6 +1,6 @@
 # Born2beroot
 
-![C](https://img.shields.io/badge/language-C-blue.svg)
+![Shell](https://img.shields.io/badge/language-Shell-green.svg)
 
 ### Overview
 
